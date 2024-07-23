@@ -1,0 +1,11 @@
+#about {
+    background-color: #f4f4f4;
+    padding: 2rem 1rem;
+    text-align: center;
+  }
+  
+  #about p {
+    line-height: 1.5;
+    max-width: 600px;
+    margin: 0 auto;
+  }

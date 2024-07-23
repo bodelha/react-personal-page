@@ -1,0 +1,21 @@
+header {
+  background-color: #333;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+nav a {
+  margin: 0.5rem;
+  color: white;
+  font-weight: bold;
+}
